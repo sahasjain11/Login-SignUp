@@ -1,0 +1,12 @@
+high-end-auth-suite/
+├── node_modules/
+├── public/
+│   └── index.html             <-- HTML root file
+├── src/
+│   ├── App.jsx                <-- THE MAIN REACT COMPONENT (Auth Logic & UI)
+│   ├── index.js               <-- React entry point
+│   └── index.css              <-- Tailwind CSS imports
+├── package.json
+├── package-lock.json
+├── README.md
+└── tailwind.config.js         <-- Tailwind
